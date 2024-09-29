@@ -26,4 +26,4 @@ Este projeto tem como foco o desenvolvimento das seguintes habilidades:
 ### Próximos Passos
 - Implementar níveis de dificuldade para a IA.
 - Adicionar uma interface gráfica simples para melhorar a interatividade.
-- Expandir as opções do jogo para outras variações, como "Pedra, Papel, Tesoura, Lagarto, Spock".
+- Expandir a opções do jogo para outras variações, como "Pedra, Papel, Tesoura, Lagarto, Spock".
