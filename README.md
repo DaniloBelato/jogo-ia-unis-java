@@ -22,8 +22,3 @@ Este projeto tem como foco o desenvolvimento das seguintes habilidades:
 - Uso de estruturas de controle de fluxo como loops e condicionais.
 - Implementação de lógica básica de decisão e integração de IA simples.
 - Aplicação dos conceitos fundamentais de programação orientada a objetos (POO) em Java.
-
-### Próximos Passos
-- Implementar níveis de dificuldade para a IA.
-- Adicionar uma interface gráfica simples para melhorar a interatividade.
-- Expandir a opções do jogo para outras variações, como "Pedra, Papel, Tesoura, Lagarto, Spock".
